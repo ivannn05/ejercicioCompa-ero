@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\bin\Debug\net6.0\ejercicioDeCreacionPropia.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\bin\Debug\net6.0\ejercicioDeCreacionPropia.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\bin\Debug\net6.0\ejercicioDeCreacionPropia.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\bin\Debug\net6.0\ejercicioDeCreacionPropia.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\bin\Debug\net6.0\ejercicioDeCreacionPropia.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\obj\Debug\net6.0\ejercicioDeCreacionPropia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\obj\Debug\net6.0\ejercicioDeCreacionPropia.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\obj\Debug\net6.0\ejercicioDeCreacionPropia.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\obj\Debug\net6.0\ejercicioDeCreacionPropia.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\obj\Debug\net6.0\ejercicioDeCreacionPropia.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\obj\Debug\net6.0\refint\ejercicioDeCreacionPropia.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\obj\Debug\net6.0\ejercicioDeCreacionPropia.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\obj\Debug\net6.0\ejercicioDeCreacionPropia.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioDeCreacionPropia\obj\Debug\net6.0\ref\ejercicioDeCreacionPropia.dll
